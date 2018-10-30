@@ -9,7 +9,7 @@ const API_END_POINT = "https://api.themoviedb.org/3/"
 const POPULAR_MOVIES_URL = "discover/movie?language=fr&sort_by=popularity.desc&include_adult=false&append_to_response=images"
 const MOVIE_VIDEO_URL = "append_to_response=videos&include_adult=false"
 const SEARCH_URL = "search/movie?language=fr&include_adult=false"
-const API_KEY = "api_key=dfe1a47ecdd5ff958cffd8599d8da6b3"
+const API_KEY = "api_key=...YOUR...KEY...."
 
 
 class App extends Component {
